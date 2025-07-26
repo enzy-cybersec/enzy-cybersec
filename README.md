@@ -1,8 +1,9 @@
+# 👋 Hey there, This is Naeim Zeynali
 
-
-
-
-
+🎓 I'm a 3rd-year BSc student in **Cybersecurity & Digital Forensics**  
+🔍 Passionate about **Offensive Security**, **Network Security**, and **SCADA/ICS Security**  
+🎯 Currently preparing for the **OSCP** certification  
+💻 Building a library of automation scripts, CTF writeups, and practical projects
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
