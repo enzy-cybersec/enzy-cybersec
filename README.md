@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a 3rd-year BSc student in Cybersecurity & Digital Forensics<br>🔍 Passionate about Offensive Security, Network Security, and SCADA/ICS Security<br>🎯 Currently preparing for the OSCP and OSCP+ certification<br>💻 Building a library of automation scripts, CTF writeups, and practical projects
+🎓 I'm a 3rd-year BSc student in Cybersecurity & Digital Forensics<br>🔍 Passionate about Offensive Security, Network Security, and SCADA/ICS Security<br>🎯 OSCP and OSCP+ certified<br>💻 Building a library of automation scripts, CTF writeups, and practical projects
 
 
 ## 🌐 Socials:
